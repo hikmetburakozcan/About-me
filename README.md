@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @hikmetburakozcan. I’m a research assistant at the deparment of mathematics at IZTECH. 
-- 👀 I’m interested in pure mathematics, probability & statistics, data science, Python, R Programing,  machine learning.
-- 🌱 I’m currently learning Python with machine learning 
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @hikmetburakozcan. I’m a research assistant in the Deparment of Mathematics at IZTECH. 
+- 👀 I’m interested in probability & statistics, data science, Python, machine learning.
+- 🌱 I’m currently the participant of VBO Data Science and Machine Learning Bootcamp
 - 📫 How to reach me hikmetburakozcan@gmail.com or hikmetozcan@iyte.edu.tr
 
 <!---
